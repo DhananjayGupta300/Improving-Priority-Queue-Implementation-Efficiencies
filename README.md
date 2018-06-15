@@ -4,7 +4,7 @@
 
 ### ABSTRACT
 
-This paper is an extension to our previous [[work]](http://dgupta.us/Efficiency-of-Priority-Queues/paper.pdf). Based on their running time efficiencies, earlier we
+This paper is an extension to our previous [work](http://dgupta.us/Efficiency-of-Priority-Queues/paper.pdf). Based on their running time efficiencies, earlier we
 gave a comparative study of various available ways to implement priority queues. In this paper we
 demonstrate a way to further improve their running time efficiency. We bring an introduction to memory
 pooling and later describe how this concept may be used to improve the running time efficiency of
